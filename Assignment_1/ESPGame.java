@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 /*
  * Class: CMSC203 
  * Instructor: Farnaz Eivazi
- * Description: (Give a brief description for each Class)
+ * Description: (Guessing game picking a color)
  * Due: 06/17/2024
  * Platform/compiler: Eclipse
  * I pledge that I have completed the programming assignment 
