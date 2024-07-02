@@ -58,7 +58,7 @@ public class Patient
 	}
 	
 	//par constructor
-	public Patient(String firstName, String middleName, String lastName, String streetAddress, String patientNumber, 
+	public Patient(String firstName, String middleName, String lastName, String streetAddress, String patientNumber, String city, String state, String zipCode,
 			String emergencyContactFirstName, String emergencyContactLastName, String emergencyContactNumber) 
 	{
 		this.firstName = firstName;
