@@ -24,9 +24,57 @@ public class ManagementCompany {
 	private String taxID;
 	private double mgmFeePer;
 	private Property[] properties;
-    private Plot plot;
-    private int numberOfProperties;
+    	private Plot plot;
+	private int numberOfProperties;
+    
+    public String getName() {
+        return name;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getTaxID() {
+        return taxID;
+    }
+
+    public void setTaxID(String taxID) {
+        this.taxID = taxID;
+    }
+
+    public double getMgmFeePer() {
+        return mgmFeePer;
+    }
+
+    public void setMgmFeePer(double mgmFeePer) {
+        this.mgmFeePer = mgmFeePer;
+    }
+
+    public Property[] getProperties() {
+        return properties;
+    }
+
+    public void setProperties(Property[] properties) {
+        this.properties = properties;
+    }
+   
+    public Plot getPlot() {
+        return plot;
+    }
+
+    public void setPlot(Plot plot) {
+        this.plot = plot;
+    }
+
+    public int getNumberOfProperties() {
+        return numberOfProperties;
+    }
+
+    public void setNumberOfProperties(int numberOfProperties) {
+        this.numberOfProperties = numberOfProperties;
+    }
+    
     /**
      * Constructs a `ManagementCompany` with default values.
      */
