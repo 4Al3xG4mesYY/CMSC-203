@@ -1,3 +1,14 @@
+/*
+ * Class: CMSC203 
+ * Instructor: Farnaz Eivazi
+ * Description: (Gives out the total between rows and columns)
+ * Due: 07/23/2024
+ * Platform/compiler: 07/23/2024
+ * I pledge that I have completed the programming assignment independently.
+*  I have not copied the code from a student or any source. 
+*  I have not given my code to any student.
+*  Print your Name here: Alexander Nguyen
+
 //package holidayBonus;
 import java.io.File;
 import java.io.FileNotFoundException;
